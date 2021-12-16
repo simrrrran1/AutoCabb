@@ -1,4 +1,4 @@
-# Cedcab-Cab-Booking-Project
+# Autocab
 # Landing page
 ![](screenshots/screen1.png)
 # Login page
